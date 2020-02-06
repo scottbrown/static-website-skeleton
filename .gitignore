@@ -1,0 +1,5 @@
+# Ignore the temporary cache directory that sass makes
+.sass-cache
+
+# Ignore the OS-specific artifact
+server

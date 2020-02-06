@@ -1,0 +1,12 @@
+html {
+  font-size: 12pt; }
+
+.page-title {
+  font-weight: 100;
+  font-size: 1.5rem; }
+
+.centered-image {
+  text-align: center; }
+  .centered-image caption {
+    display: block;
+    text-align: center; }
