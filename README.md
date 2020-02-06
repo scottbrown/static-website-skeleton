@@ -16,6 +16,8 @@ This is a skeleton project to get someone started on building static websites wi
 
 Run `make` to see the list of actions you can run on this project.
 
+To start building, just run `make server` in one window, `make watch` in another window, visit [http://localhost:3000](http://localhost:3000) and then go edit some HTML files!
+
 ## Pre-Built Server Binaries
 
 There are pre-built server binaries in the `bin/` directory of this project, in the event that you do not have Go installed locally.  Just use the one that is named after your operating system and copy it to the main project directory as `server`:
